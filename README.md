@@ -1,1 +1,1 @@
-# gifTastic.github.io
+# giftastic
